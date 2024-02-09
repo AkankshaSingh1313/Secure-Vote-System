@@ -7,5 +7,7 @@ A secure voting system using blockchain technology is an innovative approach to 
 
 <br>
 
-<H3>Azure Requirements:</H3>
+<H3>Hardware Requirements:</H3>
 1.	
+
+<H3>Software Requirements:</H3>
