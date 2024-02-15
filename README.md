@@ -8,7 +8,7 @@ A secure voting system using blockchain technology is an innovative approach to 
    5. End-to-End Encryption<br>
   
 <H3>Problem Statement</H3>
-<br>Design a secure electronic voting system that ensures the integrity, confidentiality, and authenticity of votes while maintaining voter privacy and preventing any form of tampering or manipulation. The system should be user-friendly, accessible, and scalable to accommodate a large number of voters while minimizing the risk of cyber-attacks and ensuring a transparent and verifiable voting process.
+<br>Construct a safe electronic voting system that protects voter privacy, guarantees vote integrity, confidentiality, and authenticity, and forbids any kind of manipulation or meddling. In order to handle a huge number of voters, reduce the danger of cyberattacks, and guarantee a transparent and verifiable voting process, the system should be easy to use, accessible, and scalable.<br>
 
 <H3>Solution</H3>
 
