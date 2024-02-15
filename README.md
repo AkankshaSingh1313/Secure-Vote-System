@@ -1,18 +1,18 @@
 # Minor-2 Project
 <H2>TITLE: Secure-Vote-system</H2> 
-A secure voting system using blockchain technology is an innovative approach to conducting elections that aims to address issues such as fraud, tampering, and transparency. Here are some key components and considerations for designing such a system:<br>
-   1. Authentication and Authorization<br>
-   2. Voter Registration<br>
-   3. Ballot Generation<br>
-   4. Secure Voting Interface<br>
-   5. End-to-End Encryption<br>
-  
+A secure voting system using blockchain technology is an innovative approach to conducting elections that addresses fraud, tampering, and transparency. Here are some key components and considerations for designing such a system:<br>
+ 1.	Authentication and Authorization<br>
+2.	Voter Registration<br>
+3.	Ballot Generation<br>
+4.	Secure Voting Interface<br>
+5.	End-to-End Encryption<br>
+
 <H3>Problem Statement</H3>
-<br>Construct a safe electronic voting system that protects voter privacy, guarantees vote integrity, confidentiality, and authenticity, and forbids any kind of manipulation or meddling. In order to handle a huge number of voters, reduce the danger of cyberattacks, and guarantee a transparent and verifiable voting process, the system should be easy to use, accessible, and scalable.<br>
+<br>Construct a safe electronic voting system that protects voter privacy, guarantees vote integrity, confidentiality, and authenticity, and forbids any manipulation or meddling. To handle a huge number of voters, reduce the danger of cyberattacks, and guarantee a transparent and verifiable voting process, the system should be easy to use, accessible, and scalable.<br>
 
 <H3>Solution</H3>
 
-<br>To address the outlined problem statement, we propose a comprehensive solution for a secure electronic voting system. This solution integrates advanced cryptographic techniques, robust authentication mechanisms, and stringent security measures to ensure the integrity, confidentiality, and authenticity of votes while maintaining voter privacy and preventing tampering or manipulation. <br>
+<br>To address the outlined problem statement, we propose a comprehensive solution for a secure electronic voting system. This solution integrates advanced cryptographic techniques, robust authentication mechanisms, and stringent security measures to ensure votes' integrity, confidentiality, and authenticity while maintaining voter privacy and preventing tampering or manipulation. <br>
 
 <H3>Objectives</H3>
 
