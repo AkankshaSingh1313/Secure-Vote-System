@@ -12,7 +12,7 @@ A secure voting system using blockchain technology is an innovative approach to 
 
 <H3>Solution</H3>
 
-<br>To address the outlined problem statement, we propose a comprehensive solution for a secure electronic voting system. This solution integrates advanced cryptographic techniques, robust authentication mechanisms, and stringent security measures to ensure votes' integrity, confidentiality, and authenticity while maintaining voter privacy and preventing tampering or manipulation. <br>
+<br>Our proposed solution for a secure vote management system entails the development of a comprehensive software platform that integrates advanced encryption techniques, multi-factor authentication, and blockchain technology to safeguard the integrity, confidentiality, and authenticity of the voting process. <br>
 
 <H3>Objectives</H3>
 
