@@ -22,3 +22,4 @@ Our proposed solution for a secure vote management system entails the developmen
 
 3. Improve Security: Employ robust cybersecurity measures and transparent procedures to safeguard against fraud, manipulation, and unauthorized access, building trust in the system's integrity.  <br>
 
+4. Promote Transparency and Auditability: Implement a verifiable audit trail and robust transparency measures, such as public key cryptography and independent oversight mechanisms, allowing for verification of results and building trust in the system's fairness.  <br>
