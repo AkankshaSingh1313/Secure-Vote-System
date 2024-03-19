@@ -1,5 +1,5 @@
-# Minor-2 Project
-<H2>TITLE: Secure-Vote-system</H2> 
+<H2 align="center">Minor-2 Project</H2>
+<H2 align="center">TITLE: Secure-Vote-system</H2> 
 A secure voting system using blockchain technology is an innovative approach to conducting elections that addresses fraud, tampering, and transparency. Here are some key components and considerations for designing such a system:<br>
  1.	Authentication and Authorization<br>
 2.	Voter Registration<br>
@@ -7,14 +7,14 @@ A secure voting system using blockchain technology is an innovative approach to 
 4.	Secure Voting Interface<br>
 5.	End-to-End Encryption<br>
 
-<H3>Problem Statement</H3>
+<H3 align="center">Problem Statement</H3>
 In light of increasing concerns regarding the security and integrity of electoral processes, there is a pressing need for the development of a robust and secure vote management system that can effectively safeguard the confidentiality, accuracy, and authenticity of votes cast in elections.<br>
 
-<H3>Solution</H3>
+<H3 align="center">Solution</H3>
 
 Our proposed solution for a secure vote management system entails the development of a comprehensive software platform that integrates advanced encryption techniques, multi-factor authentication, and blockchain technology to safeguard the integrity, confidentiality, and authenticity of the voting process. <br>
 
-<H3>Objectives</H3>
+<H3 align="center">Objectives</H3>
 
 1. Enhance Efficiency: Streamline the voting process by eliminating manual counting and reducing delays, leading to faster and more accurate results. <br>
 
